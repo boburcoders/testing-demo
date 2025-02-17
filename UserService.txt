@@ -1,2 +1,4 @@
 Get user by Id ....
 proccessing data
+
+add an avatr for user
